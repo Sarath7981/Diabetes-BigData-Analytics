@@ -83,4 +83,4 @@ This project is for educational and academic purposes only. Its predictions are 
 
 ## Project status
 
-The project was developed and tested locally. The source files, trained model, and result artifacts still need to be added to this GitHub repository. Do not upload private data or unnecessary generated files.
+The project was developed and tested locally. The application source code, analysis pages, training and prediction modules, and model-comparison CSV are included in this repository. The raw dataset, processed Parquet data, and trained model are intentionally excluded; download/process the dataset and run model training locally to recreate them. Do not upload private data or unnecessary generated files.
